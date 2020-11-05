@@ -1,0 +1,2 @@
+/usr/bin/ar qc libei.a  CMakeFiles/ei.dir/src/ei_draw.cpp.o CMakeFiles/ei.dir/src/ei_frame.cpp.o CMakeFiles/ei.dir/src/ei_widget.cpp.o CMakeFiles/ei.dir/src/ei_application.cpp.o CMakeFiles/ei.dir/src/ei_geometry_manager.cpp.o CMakeFiles/ei.dir/src/ei_button.cpp.o CMakeFiles/ei.dir/src/ei_toplevel.cpp.o CMakeFiles/ei.dir/src/ei_eventmanager.cpp.o CMakeFiles/ei.dir/src/ei_button_radio.cpp.o CMakeFiles/ei.dir/src/ei_check_box.cpp.o CMakeFiles/ei.dir/src/ei_entry.cpp.o CMakeFiles/ei.dir/src/ei_internals_calbacks.cpp.o
+/usr/bin/ranlib libei.a

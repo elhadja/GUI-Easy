@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -Wall -g  -rdynamic CMakeFiles/toplevel.dir/toplevel.cpp.o  -o toplevel  -L/home/elhadjium007/Bureau/projet-tech-1/lib/_x11 -Wl,-rpath,/home/elhadjium007/Bureau/projet-tech-1/lib/_x11 ../libei.a -leibase -lallegro -lallegro_image -lallegro_color -lallegro_font -lallegro_ttf -lallegro_primitives -lm 
